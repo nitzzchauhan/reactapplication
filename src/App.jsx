@@ -1,7 +1,7 @@
 
 
 function App() {
- return <h1>I am React Application</h1>
+ return <h1>I am React Application. I hate React</h1>
 
  
 }
